@@ -17,7 +17,7 @@ Brain tumors can be life-threatening if not detected early. Manual diagnosis thr
 - Python
 - TensorFlow / Keras
 - NumPy
-- OpenCV
+- CNN
 - Matplotlib
 - Jupyter Notebook
 
